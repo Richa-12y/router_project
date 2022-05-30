@@ -1,0 +1,96 @@
+{ 
+    "cardShoppingArrayOfProduct":[
+        {
+            "titleCard":"Diverse Men's Regular Formal Shirt",
+            "priceCard":"₹349.00",
+            "imageCardUrl":"https://images-eu.ssl-images-amazon.com/images/I/81w1s5-2IUL._AC_UL604_SR604,400_.jpg"
+        },
+        {
+            "titleCard":"Lymio Women's Dress",
+            "priceCard":"₹499.00",
+            "imageCardUrl":"https://images-eu.ssl-images-amazon.com/images/I/71p9m51QtUL._AC_UL604_SR604,400_.jpg"
+        },
+        {
+            "titleCard":"Diverse Men's Regular Formal Shirt",
+            "priceCard":"₹699.00",
+            "imageCardUrl":"https://images-eu.ssl-images-amazon.com/images/I/81X8-6FtIvL._AC_UL604_SR604,400_.jpg"
+        },
+        {
+            "titleCard":"AMERICAN CREW Men's Regular Fit T-Shirt",
+            "priceCard":"₹799.00",
+            "imageCardUrl":"https://m.media-amazon.com/images/I/61K4nQduSLL._UY741_.jpg"
+        },
+        {
+            "titleCard":"Lightweight School Bags",
+            "priceCard":"₹499.00",
+            "imageCardUrl":"https://images-eu.ssl-images-amazon.com/images/I/41wD7-HxLCL._AC._SR180,230.jpg"
+        },
+        {
+            "titleCard":"Lightweight School Bags",
+            "priceCard":"₹999.00",
+            "imageCardUrl":"https://images-eu.ssl-images-amazon.com/images/I/81MdmvloEkL._AC._SR360,460.jpg"
+        },
+        {
+            "titleCard":"Lightweight School Bags",
+            "priceCard":"₹909.00",
+            "imageCardUrl":"https://images-eu.ssl-images-amazon.com/images/I/81EASQlMkSS._AC._SR360,460.jpg"
+        },
+        {
+            "titleCard":"Lightweight School Bags",
+            "priceCard":"₹809.00",
+            "imageCardUrl":"https://images-eu.ssl-images-amazon.com/images/I/81RtwUjQiFL._AC._SR360,460.jpg"
+        },
+        {
+            "titleCard":"HP Victus Latest AMD Ryzen",
+            "priceCard":"₹57,990 ",
+            "imageCardUrl":"https://m.media-amazon.com/images/I/71h7F81EBoS._AC_UL480_QL65_.jpg"
+        },
+        {
+            "titleCard":"Lenovo Legion 5 AMD Ryzen ",
+            "priceCard":"₹60,990",
+            "imageCardUrl":"https://m.media-amazon.com/images/I/61ItfhQmaFL._AC_UL480_QL65_.jpg"
+        },
+        {
+            "titleCard":"HP Victus Latest AMD Ryzen",
+            "priceCard":"₹78,990",
+            "imageCardUrl":"https://m.media-amazon.com/images/I/71D9lGfC5qL._AC_UL480_QL65_.jpg"
+        },
+        {
+            "titleCard":"Lenovo Ideapad Gaming 3 ",
+            "priceCard":"₹72,990 ",
+            "imageCardUrl":"https://m.media-amazon.com/images/I/71--IQUHVwL._AC_UL480_QL65_.jpg"
+        },
+        {
+            "titleCard":"Nike Men Black JORDAN ULTRA ",
+            "priceCard":"₹10,995.00 ",
+            "imageCardUrl":"https://tse2.mm.bing.net/th?id=OIP.tk9Hglt7AzxOEFRGR_EFnAHaE8&pid=Api&P=0&w=266&h=177"
+        },
+        {
+            "titleCard":"Nike Women Cream-Coloured",
+            "priceCard":"₹10,995.00 ",
+            "imageCardUrl":"https://sp.yimg.com/ib/th?id=OPA.wM2ro9eFTtoZbA474C474&o=5&pid=21.1"
+        },
+
+        {
+            "titleCard":"Nike Men Black JORDAN ULTRA ",
+            "priceCard":"₹10,995.00 ",
+            "imageCardUrl":"https://sp.yimg.com/ib/th?id=OPA.YGydvF%2f7DlD%2f7A474C474&o=5&pid=21.1"
+        },
+        {
+            "titleCard":"Nike Men White Leather Air Jordan",
+            "priceCard":"₹10,005.00 ",
+            "imageCardUrl":"https://sp.yimg.com/ib/th?id=OPA.BIFJrWhN3Tdhxg474C474&o=5&pid=21.1"
+        },
+        {
+            "titleCard":"Nike Men Black JORDAN ULTRA ",
+            "priceCard":"₹10,995.00 ",
+            "imageCardUrl":"https://sp.yimg.com/ib/th?id=OPA.YGydvF%2f7DlD%2f7A474C474&o=5&pid=21.1"
+        },
+        {
+            "titleCard":"Nike Men White Leather Air Jordan",
+            "priceCard":"₹10,005.00 ",
+            "imageCardUrl":"https://sp.yimg.com/ib/th?id=OPA.BIFJrWhN3Tdhxg474C474&o=5&pid=21.1"
+        }
+    ]
+
+}

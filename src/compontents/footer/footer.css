@@ -1,0 +1,39 @@
+
+  .footer_container{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    background-color: black;
+    justify-content: space-evenly;
+    align-items: center;
+    cursor: pointer;
+  }
+  .footer_container,ul,li{
+    list-style-type: none;
+    font-size: 1rem;
+    color: #86939E;
+    font-family: 'Times New Roman', Times, serif;
+
+  }
+
+  .footer_container,ul,li:first-child{
+   font-size: 2rem;
+   color: white;
+   font-family: 'Times New Roman', Times, serif;
+  }
+
+  .footer_container>ul>li::first-letter{
+   color: aqua;
+   }
+  footer{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    background-color: black;
+    color: #86939E;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 1rem;
+    cursor: pointer;
+
+  }

@@ -1,0 +1,96 @@
+.contactus_wrapper{
+    width: 100vw;
+    height:100vh;
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    text-align: center;
+}
+
+.contactus_title_wrapper{
+    width: 80%;
+    /* background-color: red; */
+    margin-top: 30px;
+    text-align: center;
+    padding: 30px;
+    border-bottom: 1px dashed #00ffff;
+    color: white;
+}
+
+h1 {
+    display: block;
+    font-size: 3rem !important;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+.contactus_heading_wrapper{
+    width: 60%;
+    /* background-color: blanchedalmond; */
+    text-align: center;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+
+}
+.contactus_title_input_wrapper{
+    display: flex;
+    width: 70%;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.contactus_title_input{
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+}
+.contactus_title_input,input{
+    position:relative;
+    background-origin: padding-box;
+    outline-color: white;
+    color: white;
+
+}
+.brackets_contact{
+    background-color: #00ffff;
+    outline-color: white;
+    border: 2px solid white;
+    width: 90px;
+ 
+}
+.contactus_title_wrapper_right{
+    display: grid;
+    grid-template-rows: auto auto auto;
+    width: 100%;
+    /* background-color: brown; */
+    margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact_title_wrapper_icon{
+    /* background-color: red; */
+    display: grid;
+    grid-template-columns: auto;
+     text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #00ffff;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+} 
+.icon_style{
+   margin-top: 10px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-around;
+   /* background-color: white; */
+}

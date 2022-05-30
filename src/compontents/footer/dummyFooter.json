@@ -1,0 +1,29 @@
+{
+    "footerDataDetils":[
+        {
+            "listDataOne":"Social",
+            "listDataTwo":"Facebook",
+            "listDataThree":"Twitter",
+            "listDataFour":"Email",
+            "listDataFive":"Instagram"
+ 
+        },
+        {
+            "listDataOne":"Service",
+            "listDataTwo":"Shoping",
+            "listDataThree":"Download",
+            "listDataFour":"Feedback",
+            "listDataFive":"Bug Report"
+
+        },
+        {
+            "listDataOne":"Activity",
+            "listDataTwo":"Co-branding",
+            "listDataThree":"Honor",
+            "listDataFour":"Terms of Use",
+            "listDataFive":"Giveaway"
+
+
+        }
+    ]
+}

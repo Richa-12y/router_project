@@ -1,0 +1,122 @@
+{  
+    
+    "shoppingCardArrayOfProduct":[
+    {   "id": 1,
+        "title": "et autem dolores aut porro est qui",
+        "imgUrl"	:	"https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+        "name"	: "autem dolores ",
+        "price":	"110",
+        "color":"red",
+        "rating":"❤❤❤❤❤"
+
+    },
+    {    "id": 2,
+        "title": "et autem dolores aut porro est qui",
+        "imgUrl":"https://images-eu.ssl-images-amazon.com/images/I/91FvDEE9sCL._AC_UL450_SR450,320_.jpg",
+        "name"	: "autem dolores ",
+        "price":	"990",
+        "color":"black",
+        "rating":"❤❤❤❤"
+
+
+    },
+    {   "id": 3,
+        "title": "et autem dolores aut porro est qui",
+        "imgUrl":"https://images-eu.ssl-images-amazon.com/images/I/816R47XrV1L._AC_UL450_SR450,320_.jpg",
+        "name"	: "autem dolores ",
+        "price":	"299",
+        "color":"black",
+        "rating":"❤❤❤❤❤"
+
+
+    },
+
+    {   "id": 4,
+        "title": "et autem dolores aut porro est qui",
+        "imgUrl":"https://images-eu.ssl-images-amazon.com/images/I/71+ZD+DmiyL._AC_UL450_SR450,320_.jpg",
+        "name"	: "autem dolores ",
+        "price":	"1999",
+        "color":"black",
+        "rating":"❤❤❤"
+
+
+    },
+    {    "id": 5,
+        "title": "et autem dolores aut porro est qui",
+        "imgUrl":"https://images-eu.ssl-images-amazon.com/images/I/61a+QqynnwL._AC_UL302_SR302,200_.jpg",
+        "name"	: "autem dolores ",
+        "price":	"₹470.00 - ₹645.00",
+        "color":"black",
+        "rating":"❤❤❤❤❤"
+
+
+    },
+    {    "id": 6,
+        "title": "et autem dolores aut porro est qui",
+        "imgUrl":"https://images-eu.ssl-images-amazon.com/images/I/81QVEO08vrL._AC_UL604_SR604,400_.jpg",
+        "name"	: "autem dolores ",
+        "price":	"₹539.00 - ₹699.00",
+        "color":"blue",
+        "rating":"❤❤❤❤❤"
+
+
+    },
+    {    "id": 7,
+        "title": "et autem dolores aut porro est qui",
+        "imgUrl":"https://images-eu.ssl-images-amazon.com/images/I/71vp8Lec9JL._AC_UL604_SR604,400_.jpg",
+        "name"	: "autem dolores ",
+        "price":	"₹369.00 - ₹429.00",
+        "color":"gray",
+        "rating":"❤❤❤❤❤"
+
+
+    },
+    {     "id": 8,
+        "title": "et autem dolores aut porro est qui",
+        "imgUrl":"https://images-eu.ssl-images-amazon.com/images/I/81Hyz+OMjyL._AC_UL604_SR604,400_.jpg",
+        "name"	: "autem dolores ",
+        "price":	"₹519.00 - ₹659.00",
+        "color":"red",
+        "rating":"❤❤❤"
+
+
+    },
+    {    "id": 9,
+        "title": "et autem dolores aut porro est qui",
+        "imgUrl":"https://images-eu.ssl-images-amazon.com/images/I/81Hyz+OMjyL._AC_UL604_SR604,400_.jpg",
+        "name"	: "autem dolores ",
+        "price":	"₹519.00 - ₹659.00",
+        "color":"black",
+        "rating":"❤❤❤❤❤"
+
+
+    },
+    {    "id": 10,
+        "title": "et autem dolores aut porro est qui",
+        "imgUrl":"https://images-eu.ssl-images-amazon.com/images/I/51AXhiNnWqL._AC_UL604_SR604,400_.jpg",
+        "name"	: "autem dolores ",
+        "price":	"₹319.00 - ₹419.00",
+        "color":" gray ",
+        "rating":"❤❤❤❤❤"
+
+
+    },
+    {
+        "id": 11,
+        "title": "et autem dolores aut porro est qui",
+        "imgUrl":"https://images-eu.ssl-images-amazon.com/images/I/71U0Wo-rizL._AC_UL604_SR604,400_.jpg",
+        "name"	: "autem dolores ",
+        "price":	"₹599.00",
+        "color":"gray",
+        "rating":"❤❤❤❤❤"
+
+
+    }
+
+
+
+
+
+
+]
+}

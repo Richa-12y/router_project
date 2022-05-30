@@ -1,0 +1,141 @@
+.main_Container{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+    width: 100vw;
+}
+
+.shopping_Cart{
+    width: 900px;
+    margin: 80px auto;
+    background: #ffffff;
+    box-shadow: 1px 2px 3px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title{
+    width:92%;
+    height: 60px;
+    border-bottom: 1px solid #E1E8EE;
+    padding: 20px 30px;
+    color: #5E6977;
+    font-size: 18px;
+    font-weight: 400;
+     font-family: "Swiss721 BT",sans-serif;  
+     align-items: center; 
+}
+
+.item {
+    padding: 20px 30px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 600px;
+  }
+  .item:nth-child(1) {
+    border-top:  1px solid #E1E8EE;
+    border-bottom:  1px solid #E1E8EE;
+  }
+  .buttons {
+    position: relative;
+    padding-top: 30px;
+    margin-right: 90px;
+    /* background-color: blue; */
+  }
+.delete_btn,
+.like_btn {
+  display: inline-block;
+  Cursor: pointer;
+  /* background-color: #86939E; */
+  align-items: center;
+}
+.delete_button_below,
+.add_button_below{
+  display: inline-block;
+  Cursor: pointer;
+  /* background-color: aqua; */
+  align-items: center;
+}
+.delete_button_below{
+  width: 19px;
+  height: 19px;
+  margin-left: 10px;
+  align-items: center;
+
+}
+.add_button_below{
+  width: 21px;
+  height: 21px;
+}
+
+.delete_btn {
+    width: 18px;
+    height: 17px;
+    margin-left: 10px;
+    align-items: center;
+
+  }
+  .like_btn {
+    position: absolute;
+    /* top: 9px;
+    left: 30px; */
+    right: 32px;
+    width: 18px;
+    height: 17px;
+    align-items: center;
+  
+  }
+
+  .image {
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+    /* background-color: bisque; */
+    justify-content: center;
+    margin-bottom: 40px;
+   
+  }
+  .image_Design{
+      width: 80px;
+      height: 80px;
+      margin-top: 60px;
+      cursor: pointer;
+      align-items: center;
+      object-fit: cover;  
+
+  }
+  .description {
+    padding-top: 10px;
+    margin-right: 60px;
+    width: 115px;
+    cursor: pointer;
+
+  }
+   
+  .description span {
+    display: block;
+    font-size: 14px;
+    /* color: #43484D; */
+    font-weight: 400;
+    cursor: pointer;
+  
+
+  }
+   
+  .description span:first-child {
+    margin-bottom: 5px;
+  }
+  .description span:last-child {
+    font-weight: 300;
+    margin-top: 8px;
+    color: #86939E;
+  }
+  
+  
